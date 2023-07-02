@@ -1,1 +1,4 @@
 Welcome to git workshop everyone!!
+welcome to  reverting 
+welcome to squash
+
